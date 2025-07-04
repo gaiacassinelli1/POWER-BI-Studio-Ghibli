@@ -117,7 +117,7 @@ The Power BI model includes:
 ## 📬 Contact
 
 For questions, suggestions, or contributions, feel free to open an issue or contact the project maintainer at 
-**[Gaia Cassinelli](cassinelligaia@gmail.com)**
-**[Mattia Stefanizzi](lux.mattiastef@gmail.com)**
-**[Barbara Geroli](b.geroliz@gmail.com)**
-**[Francesco Beretta](fra.brtt05@gmail.com)**
+- **[Gaia Cassinelli](cassinelligaia@gmail.com)**
+- **[Mattia Stefanizzi](lux.mattiastef@gmail.com)**
+- **[Barbara Geroli](b.geroliz@gmail.com)**
+- **[Francesco Beretta](fra.brtt05@gmail.com)**
