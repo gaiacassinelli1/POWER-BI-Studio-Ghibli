@@ -40,23 +40,31 @@ The project includes:
 The dashboard is divided into **four main pages**:
 
 1. **Overview**
-    
+
+![Dashboard Ghibli_page-0001](https://github.com/user-attachments/assets/3b0b5e4f-7401-4fa2-a024-396ec025ec1f)
+
     - Regional filters (Japan, International, Worldwide)
     - KPIs: number of films, box office revenue, average review score
     - Trends over time and director-based analysis
     
 2. **Popularity**
-    
+
+![Dashboard Ghibli_page-0002](https://github.com/user-attachments/assets/b7fb51b5-b97e-44d6-b22e-dc6b798a27c2)
+
     - Audience segments: Critics, Japanese fans, Western fans
     - Top N film rankings and comparative score charts
     
 3. **Finance**
-    
+
+![Dashboard Ghibli_page-0003](https://github.com/user-attachments/assets/6eb95959-bf74-4b72-b449-941a427f3995)
+
     - Box office performance (Opening vs. Year-to-Date)
     - ROI visualization, genre and director-based revenue breakdown
     
 4. **In-Depth Report**
-    
+
+![Dashboard Ghibli_page-0004](https://github.com/user-attachments/assets/4b8ddcae-5fe6-4dd9-b13c-6a5aa20e128a)
+
     - Drill-through page for detailed film analysis
     - Poster, synopsis, director, soundtrack, financials, and popularity metrics
 
